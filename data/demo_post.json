@@ -1,0 +1,333 @@
+{
+    "id": 333438,
+    "revision": 0,
+    "opportunityNumber": "PAR-21-168",
+    "opportunityTitle": "Summer Research Education Experience Program (R25 Clinical Trial Not Allowed)",
+    "owningAgencyCode": "HHS-NIH11",
+    "listed": "L",
+    "publisherUid": "oerwebmaster",
+    "flag2006": "N",
+    "opportunityCategory": {
+        "category": "D",
+        "description": "Discretionary"
+    },
+    "synopsis": {
+        "opportunityId": 333438,
+        "version": 1,
+        "agencyCode": "HHS-NIH11",
+        "agencyName": "National Institutes of Health",
+        "agencyPhone": "301-402-2541",
+        "agencyAddressDesc": "If you have any problems linking to this funding announcement, please contact the NIH OER Webmaster",
+        "agencyDetails": {
+            "code": "NIH",
+            "seed": "HHS-NIH11",
+            "agencyName": "National Institutes of Health",
+            "agencyCode": "HHS-NIH11",
+            "topAgencyCode": "HHS"
+        },
+        "topAgencyDetails": {
+            "code": "HHS",
+            "seed": "HHS",
+            "agencyName": "Department of Health and Human Services",
+            "agencyCode": "HHS",
+            "topAgencyCode": "HHS"
+        },
+        "agencyContactPhone": "301-402-2541",
+        "agencyContactName": "National Institutes of Health",
+        "agencyContactDesc": "NIH OER Webmaster\ngrantsinfo@nih.gov",
+        "agencyContactEmail": "grantsinfo@nih.gov",
+        "agencyContactEmailDesc": "If you have any problems linking to this funding announcement, please contact the NIH OER Webmaster",
+        "synopsisDesc": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The over-arching goal of this R25 program is to support educational activities that foster a better understanding of biomedical, behavioral and clinical research and its implications.  To accomplish the stated over-arching goal, this FOA will support creative educational activities with a primary focus on research experiences for high school or undergraduate students or science teachers during the summer academic break.  The proposed program needs to fit within the mission of the participating IC that the application is being submitted to and should not have a general STEM focus (see below and Table of IC-Specific Information and Points of Contact).",
+        "responseDate": "May 07, 2024 12:00:00 AM EDT",
+        "responseDateDesc": "",
+        "fundingDescLinkUrl": "http://grants.nih.gov/grants/guide/pa-files/PAR-21-168.html",
+        "fundingDescLinkDesc": "http://grants.nih.gov/grants/guide/pa-files/PAR-21-168.html",
+        "postingDate": "May 10, 2021 12:00:00 AM EDT",
+        "archiveDate": "Jun 12, 2024 12:00:00 AM EDT",
+        "costSharing": false,
+        "awardCeiling": "125000",
+        "awardCeilingFormatted": "125,000",
+        "awardFloor": "none",
+        "applicantEligibilityDesc": "Other Eligible Applicants include the following:  Alaska Native and Native Hawaiian Serving Institutions; Asian American Native American Pacific Islander Serving Institutions (AANAPISISs); Eligible Agencies of the Federal Government; Faith-based or Community-based Organizations; Hispanic-serving Institutions; Historically Black Colleges and Universities (HBCUs); Indian/Native American Tribal Governments (Other than Federally Recognized); Regional Organizations; Tribally Controlled Colleges and Universities (TCCUs) ; U.S. Territory or Possession; Non-domestic (non-U.S.) Entities (Foreign Institutions) are not eligible to apply  Non-domestic (non-U.S.) components of U.S. Organizations are not eligible to apply.  Foreign components, as defined in the NIH Grants Policy Statement, are not allowed.   See FOA for full eligibility details.",
+        "createTimeStamp": "Jan 21, 2022 11:43:30 AM EST",
+        "createdDate": "May 10, 2021 02:23:13 PM EDT",
+        "lastUpdatedDate": "May 10, 2021 02:23:13 PM EDT",
+        "applicantTypes": [
+            {
+                "id": "12",
+                "description": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+            },
+            {
+                "id": "22",
+                "description": "For profit organizations other than small businesses"
+            },
+            {
+                "id": "25",
+                "description": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)"
+            },
+            {
+                "id": "23",
+                "description": "Small businesses"
+            },
+            {
+                "id": "06",
+                "description": "Public and State controlled institutions of higher education"
+            },
+            {
+                "id": "02",
+                "description": "City or township governments"
+            },
+            {
+                "id": "04",
+                "description": "Special district governments"
+            },
+            {
+                "id": "07",
+                "description": "Native American tribal governments (Federally recognized)"
+            },
+            {
+                "id": "13",
+                "description": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+            },
+            {
+                "id": "20",
+                "description": "Private institutions of higher education"
+            },
+            {
+                "id": "01",
+                "description": "County governments"
+            },
+            {
+                "id": "05",
+                "description": "Independent school districts"
+            },
+            {
+                "id": "00",
+                "description": "State governments"
+            },
+            {
+                "id": "08",
+                "description": "Public housing authorities/Indian housing authorities"
+            },
+            {
+                "id": "11",
+                "description": "Native American tribal organizations (other than Federally recognized tribal governments)"
+            }
+        ],
+        "fundingInstruments": [
+            {
+                "id": "G",
+                "description": "Grant"
+            }
+        ],
+        "fundingActivityCategories": [
+            {
+                "id": "ED",
+                "description": "Education"
+            },
+            {
+                "id": "ENV",
+                "description": "Environment"
+            },
+            {
+                "id": "HL",
+                "description": "Health"
+            }
+        ],
+        "responseDateStr": "2024-05-07-00-00-00",
+        "postingDateStr": "2021-05-10-00-00-00",
+        "archiveDateStr": "2024-06-12-00-00-00",
+        "createTimeStampStr": "2022-01-21-11-43-30"
+    },
+    "agencyDetails": {
+        "code": "NIH",
+        "seed": "HHS-NIH11",
+        "agencyName": "National Institutes of Health",
+        "agencyCode": "HHS-NIH11",
+        "topAgencyCode": "HHS"
+    },
+    "topAgencyDetails": {
+        "code": "HHS",
+        "seed": "HHS",
+        "agencyName": "Department of Health and Human Services",
+        "agencyCode": "HHS",
+        "topAgencyCode": "HHS"
+    },
+    "synopsisAttachmentFolders": [
+        {
+            "id": 55608,
+            "opportunityId": 333438,
+            "folderType": "Full Announcement",
+            "folderName": "PAR-21-168",
+            "zipLobSize": 448,
+            "createdDate": "Jan 21, 2022 11:41:54 AM EST",
+            "lastUpdatedDate": "Jan 21, 2022 11:43:30 AM EST",
+            "synopsisAttachments": [
+                {
+                    "id": 313663,
+                    "opportunityId": 333438,
+                    "mimeType": "text/html",
+                    "fileName": "PAR-21-168-Full-Announcement.html",
+                    "fileDescription": "PAR-21-168 Full Announcement Text",
+                    "fileLobSize": 422,
+                    "createdDate": "Jan 21, 2022 11:43:30 AM EST",
+                    "synopsisAttFolderId": 55608
+                }
+            ]
+        }
+    ],
+    "synopsisDocumentURLs": [],
+    "synAttChangeComments": [],
+    "cfdas": [
+        {
+            "id": 391309,
+            "opportunityId": 333438,
+            "cfdaNumber": "93.113",
+            "programTitle": "Environmental Health"
+        },
+        {
+            "id": 391311,
+            "opportunityId": 333438,
+            "cfdaNumber": "93.273",
+            "programTitle": "Alcohol Research Programs"
+        },
+        {
+            "id": 391310,
+            "opportunityId": 333438,
+            "cfdaNumber": "93.279",
+            "programTitle": "Drug Abuse and Addiction Research Programs"
+        },
+        {
+            "id": 391308,
+            "opportunityId": 333438,
+            "cfdaNumber": "93.286",
+            "programTitle": "Discovery and Applied Research for Technological Innovations to Improve Human Health"
+        },
+        {
+            "id": 391312,
+            "opportunityId": 333438,
+            "cfdaNumber": "93.853",
+            "programTitle": "Extramural Research Programs in the Neurosciences and Neurological Disorders"
+        },
+        {
+            "id": 391293,
+            "opportunityId": 333438
+        }
+    ],
+    "opportunityHistoryDetails": [],
+    "opportunityPkgs": [
+        {
+            "id": 277544,
+            "topportunityId": 333438,
+            "familyId": 14,
+            "dialect": "XFDL2.2",
+            "opportunityNumber": "PAR-21-168",
+            "opportunityTitle": "Summer Research Education Experience Program (R25 Clinical Trial Not Allowed)",
+            "openingDate": "Oct 28, 2022 12:00:00 AM EDT",
+            "closingDate": "May 07, 2024 12:00:00 AM EDT",
+            "owningAgencyCode": "HHS-NIH11",
+            "agencyDetails": {
+                "code": "NIH",
+                "seed": "HHS-NIH11",
+                "agencyName": "National Institutes of Health",
+                "agencyCode": "HHS-NIH11",
+                "topAgencyCode": "HHS"
+            },
+            "topAgencyDetails": {
+                "code": "HHS",
+                "seed": "HHS",
+                "agencyName": "Department of Health and Human Services",
+                "agencyCode": "HHS",
+                "topAgencyCode": "HHS"
+            },
+            "contactInfo": "eRA Service Desk Monday to Friday 7 am to 8 pm ET http://grants.nih.gov/support/",
+            "gracePeriod": 35,
+            "competitionId": "FORMS-H",
+            "competitionTitle": "Use for due dates on or after January 25, 2023",
+            "electronicRequired": "Y",
+            "expectedApplicationCount": 100,
+            "expectedApplicationSize": 0,
+            "openToApplicantType": 1,
+            "listed": "L",
+            "isMultiProject": "N",
+            "extension": "pdf",
+            "mimetype": "application/octet-stream",
+            "lastUpdate": "Oct 28, 2022 09:54:00 AM EDT",
+            "workspaceCompatibleFlag": "Y",
+            "packageId": "PKG00277544",
+            "openingDateStr": "2022-10-28-00-00-00",
+            "closingDateStr": "2024-05-07-00-00-00"
+        }
+    ],
+    "closedOpportunityPkgs": [
+        {
+            "id": 269522,
+            "topportunityId": 333438,
+            "familyId": 14,
+            "dialect": "XFDL2.2",
+            "opportunityNumber": "PAR-21-168",
+            "opportunityTitle": "Summer Research Education Experience Program (R25 Clinical Trial Not Allowed)",
+            "openingDate": "Feb 15, 2022 12:00:00 AM EST",
+            "closingDate": "Jan 24, 2023 12:00:00 AM EST",
+            "owningAgencyCode": "HHS-NIH11",
+            "contactInfo": "eRA Service Desk Monday to Friday 7 am to 8 pm ET http://grants.nih.gov/support/",
+            "gracePeriod": 17,
+            "competitionId": "FORMS-G",
+            "competitionTitle": "Use for due dates on or before January 24, 2023",
+            "electronicRequired": "Y",
+            "expectedApplicationCount": 100,
+            "expectedApplicationSize": 0,
+            "openToApplicantType": 1,
+            "listed": "L",
+            "isMultiProject": "N",
+            "extension": "pdf",
+            "mimetype": "application/octet-stream",
+            "lastUpdate": "Jan 03, 2023 07:19:02 PM EST",
+            "workspaceCompatibleFlag": "Y",
+            "packageId": "PKG00269522",
+            "openingDateStr": "2022-02-15-00-00-00",
+            "closingDateStr": "2023-01-24-00-00-00"
+        },
+        {
+            "id": 267007,
+            "topportunityId": 333438,
+            "familyId": 14,
+            "dialect": "XFDL2.2",
+            "opportunityNumber": "PAR-21-168",
+            "opportunityTitle": "Summer Research Education Experience Program (R25 Clinical Trial Not Allowed)",
+            "openingDate": "Feb 15, 2022 12:00:00 AM EST",
+            "closingDate": "Jan 24, 2022 12:00:00 AM EST",
+            "owningAgencyCode": "HHS-NIH11",
+            "contactInfo": "eRA Service Desk Monday to Friday 7 am to 8 pm ET http://grants.nih.gov/support/",
+            "gracePeriod": 17,
+            "competitionId": "FORMS-F",
+            "competitionTitle": "Use for due dates on or before January 24, 2022",
+            "electronicRequired": "Y",
+            "expectedApplicationCount": 100,
+            "expectedApplicationSize": 0,
+            "openToApplicantType": 1,
+            "listed": "L",
+            "isMultiProject": "N",
+            "extension": "pdf",
+            "mimetype": "application/octet-stream",
+            "lastUpdate": "Oct 28, 2022 09:54:00 AM EDT",
+            "workspaceCompatibleFlag": "Y",
+            "packageId": "PKG00267007",
+            "openingDateStr": "2022-02-15-00-00-00",
+            "closingDateStr": "2022-01-24-00-00-00"
+        }
+    ],
+    "originalDueDate": "May 07, 2024 12:00:00 AM EDT",
+    "originalDueDateDesc": "",
+    "synopsisModifiedFields": [],
+    "forecastModifiedFields": [],
+    "errorMessages": [],
+    "synPostDateInPast": true,
+    "docType": "synopsis",
+    "forecastHistCount": 0,
+    "synopsisHistCount": 0,
+    "assistCompatible": false,
+    "assistURL": "",
+    "relatedOpps": [],
+    "draftMode": "N"
+}
